@@ -1,4 +1,4 @@
-# DevOps
+#Введение в DevOps - Терещенко Евгений
 Для обучения
 ## Задание №1 
 https://disk.yandex.ru/d/2GTD1wFFUGTUag
